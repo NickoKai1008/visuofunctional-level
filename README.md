@@ -1,7 +1,6 @@
 The visuofunctional calculation method is inspired by Shen, Y. and Wu, Z. (2022), with the development copyright held by Wang, Y., and Xiang, Y.
 
-![Uploading flow.png…]()
-
+<img width="3881" height="2315" alt="flow" src="https://github.com/user-attachments/assets/ca7b256a-0165-421a-9f83-f228643a51a3" />
 
 # Isovist Analysis Script
 
