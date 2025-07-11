@@ -1,5 +1,8 @@
 The visuofunctional calculation method is inspired by Shen, Y. and Wu, Z. (2022), with the development copyright held by Wang, Y., and Xiang, Y.
 
+![Uploading flow.png…]()
+
+
 # Isovist Analysis Script
 
 This Python script performs visibility analysis (Isovist) based on building, POI, and road network data.
